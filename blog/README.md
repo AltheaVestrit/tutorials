@@ -1,6 +1,8 @@
 # Blog Project - Notes
 Following along with [Make a blog with Node.js, Express and MongoDB](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD).
 
+Continue at: [PART 3](https://www.youtube.com/watch?v=MruZEGPibC4&list=PL4cUxeGkcC9hAJ-ARcYq_z6lDZV7kT1xD&index=3) @7:44.
+
 ## EJS Layouts
 ### Packages
 NPM depencies:
